@@ -16,6 +16,9 @@ export default function About(props: AboutProps) {
     <div>
       About page!
       <button onClick={click}>Back</button>
+      <button onClick={click}>Back</button>
+      <button onClick={click}>Back</button>
+      <button onClick={click}>Back</button>
     </div>
   );
 }
