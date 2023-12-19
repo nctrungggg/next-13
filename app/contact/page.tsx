@@ -7,5 +7,5 @@ export const metadata: Metadata = {
 export interface ContactProps {}
 
 export default function Contact(props: ContactProps) {
-  return <div>Contact page!</div>;
+  return <div>Contact page! 123</div>;
 }
